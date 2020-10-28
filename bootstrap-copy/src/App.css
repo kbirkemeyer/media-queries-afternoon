@@ -1,0 +1,23 @@
+.logo {
+  height: 24px;
+  padding: 15px;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #343a40;
+  height: 40px;
+  width: 100%;
+}
+
+#nav-btn {
+  height: 24px;
+  position: relative;
+}
+
+main {
+  position: fixed;
+}
+
+
